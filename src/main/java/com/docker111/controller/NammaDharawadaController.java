@@ -10,7 +10,7 @@ public class HelloBengaluruControllerMessage {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "HELLO BENGALURU";
+		return "HELLO DHARAWADA";
 	}
 
 }
