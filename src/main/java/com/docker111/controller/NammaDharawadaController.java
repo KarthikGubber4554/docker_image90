@@ -8,6 +8,6 @@ public class NammaDharawadaController {
 
     @GetMapping("/message")
     public String getMessage() {
-        return "HELLO DAVANGERE";
+        return "HELLO Ranebennuru";
     }
 }
