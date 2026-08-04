@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: webappcontainer
-          image: karthikgubber45/docker_image123:latest
+          image: karthikgubber45/docker_image12345:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 9090
